@@ -2,4 +2,4 @@
 
 eCommerce FullStack MERN Project.
 
-Objetivo: atingir um conhecimento avançado em ReactJS.
+Objective: Achieve advanced knowledge in ReactJS.
