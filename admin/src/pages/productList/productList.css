@@ -1,4 +1,4 @@
-.productList {
+.productList{
     flex: 4;
 }
 
@@ -13,7 +13,7 @@
     border-radius: 50%;
     object-fit: cover;
     margin-right: 10px;
-}
+  }
 
 .productListEdit{
     border: none;
